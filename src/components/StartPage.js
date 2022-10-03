@@ -22,7 +22,7 @@ export default function StartPage(props) {
 
     return (
         <div className="startpage-section">
-            <h1>Quizzical</h1>
+            <h1>Quizzi</h1>
             <p className="quote">Train your Brain</p>
             <div className="quiz-options">
                 {/* <form > */}
