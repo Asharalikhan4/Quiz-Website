@@ -1,5 +1,5 @@
 ## Checkout this project at -
-[Quizzi - Train your brain](https://quiz-website-ten.vercel.app).
+[Quizzi - Train your brain](https://quiz-website-ten.vercel.app)
 
 ![Project Image][images/App.png]
 
