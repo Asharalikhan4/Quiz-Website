@@ -58,6 +58,10 @@ h1{
     margin-bottom: 10px;
 }
 
+label{
+    margin-right: 5px;
+}
+
 button {
     cursor: pointer;
 }
